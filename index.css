@@ -1,0 +1,13 @@
+body{
+  background-color: skyblue;
+  font-family: Tahoma, sans-serif;
+}
+h1:hover{
+  color: white;
+}
+
+h4:hover{
+  color: white;
+  font-size: 20px;
+  font-family: Tahoma,sans-serif;
+}
